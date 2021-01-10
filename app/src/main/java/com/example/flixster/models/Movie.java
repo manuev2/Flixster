@@ -29,6 +29,7 @@ public class Movie {
     }
 
     public String getPosterPath() {
+        //test
         return posterPath;
     }
 
